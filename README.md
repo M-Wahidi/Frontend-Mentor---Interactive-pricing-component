@@ -26,12 +26,12 @@ build simple & repsponsive layout
 ### Screenshot
 
 ![](screenshot/desktop_design.png)
-![](screenshot/monile_design.png)
+![](screenshot/mobile_design.png)
 
 
 ### Links
 
-- Solution URL: (https://github.com/M-Wahidi/Frontend-Mentor---Interactive-pricing-component/edit/master/README.md)
+- Solution URL: (https://github.com/M-Wahidi/Frontend-Mentor---Interactive-pricing-component/)
 - Live Site URL:(https://m-wahidi.github.io/Frontend-Mentor---Interactive-pricing-component/)
 
 
