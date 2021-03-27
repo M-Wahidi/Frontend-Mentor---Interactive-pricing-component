@@ -23,7 +23,7 @@ body{
     align-items: center;
     flex-direction:column;
     text-align: center;
-    background:url('./images/bg-pattern.svg') no-repeat;
+    background:url('images/bg-pattern.svg') no-repeat center;
     background-size: cover;
 }
 .circles{
