@@ -25,14 +25,14 @@ build simple & repsponsive layout
 
 ### Screenshot
 
-![](../screenshot/desktop_design)
-![](../screenshot/mobile_design)
+![](screenshot/desktop_design.png)
+![](screenshot/monile_design.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/M-Wahidi/Frontend-Mentor---Interactive-pricing-component/edit/master/README.md)
+- Live Site URL:(https://m-wahidi.github.io/Frontend-Mentor---Interactive-pricing-component/)
 
 
 ### Built with
@@ -49,6 +49,6 @@ the most thing i laarned in this challenge is how to make a custom input range
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/M-Wahidi)
-- Twitter - [@yourusername](https://www.twitter.com/wahidimohamed37)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/M-Wahidi)
+- Twitter - (https://www.twitter.com/wahidimohamed37)
 
